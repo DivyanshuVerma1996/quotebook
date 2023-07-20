@@ -3,3 +3,5 @@ Do or do not.
 Hi this is second commit.
 
 Live long and prosper-Spock
+
+The best way to predict the future is to create it.-"Added Drucker quote"
